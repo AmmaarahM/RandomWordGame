@@ -1,0 +1,11 @@
+C:\Users\231730\Source\Repos\RandomWordGame\RandomWordGame\obj\Debug\RandomWordGame.csproj.AssemblyReference.cache
+C:\Users\231730\Source\Repos\RandomWordGame\RandomWordGame\obj\Debug\RandomWordGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\231730\Source\Repos\RandomWordGame\RandomWordGame\obj\Debug\RandomWordGame.Form1.resources
+C:\Users\231730\Source\Repos\RandomWordGame\RandomWordGame\obj\Debug\RandomWordGame.Properties.Resources.resources
+C:\Users\231730\Source\Repos\RandomWordGame\RandomWordGame\obj\Debug\RandomWordGame.csproj.GenerateResource.cache
+C:\Users\231730\Source\Repos\RandomWordGame\RandomWordGame\obj\Debug\RandomWordGame.csproj.CoreCompileInputs.cache
+C:\Users\231730\Source\Repos\RandomWordGame\RandomWordGame\bin\Debug\RandomWordGame.exe.config
+C:\Users\231730\Source\Repos\RandomWordGame\RandomWordGame\bin\Debug\RandomWordGame.exe
+C:\Users\231730\Source\Repos\RandomWordGame\RandomWordGame\bin\Debug\RandomWordGame.pdb
+C:\Users\231730\Source\Repos\RandomWordGame\RandomWordGame\obj\Debug\RandomWordGame.exe
+C:\Users\231730\Source\Repos\RandomWordGame\RandomWordGame\obj\Debug\RandomWordGame.pdb
