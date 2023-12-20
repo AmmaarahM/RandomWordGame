@@ -54,6 +54,7 @@
             this.richTextBox7 = new System.Windows.Forms.RichTextBox();
             this.button11 = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
+            this.button12 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -274,7 +275,7 @@
             // 
             // button11
             // 
-            this.button11.Location = new System.Drawing.Point(465, 386);
+            this.button11.Location = new System.Drawing.Point(464, 370);
             this.button11.Name = "button11";
             this.button11.Size = new System.Drawing.Size(75, 23);
             this.button11.TabIndex = 13;
@@ -285,12 +286,23 @@
             // textBox1
             // 
             this.textBox1.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textBox1.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(90, 40);
+            this.textBox1.Location = new System.Drawing.Point(90, 41);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(55, 27);
+            this.textBox1.Size = new System.Drawing.Size(52, 20);
             this.textBox1.TabIndex = 14;
             this.textBox1.Text = "05:00";
+            // 
+            // button12
+            // 
+            this.button12.Location = new System.Drawing.Point(464, 399);
+            this.button12.Name = "button12";
+            this.button12.Size = new System.Drawing.Size(75, 23);
+            this.button12.TabIndex = 15;
+            this.button12.Text = "Enter";
+            this.button12.UseVisualStyleBackColor = true;
+            this.button12.Click += new System.EventHandler(this.button12_Click);
             // 
             // Form1
             // 
@@ -298,6 +310,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlDark;
             this.ClientSize = new System.Drawing.Size(594, 571);
+            this.Controls.Add(this.button12);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.button11);
             this.Controls.Add(this.richTextBox7);
@@ -348,6 +361,7 @@
         private System.Windows.Forms.RichTextBox richTextBox7;
         private System.Windows.Forms.Button button11;
         private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.Button button12;
     }
 }
 
